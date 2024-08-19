@@ -1,4 +1,7 @@
-The Tic Tac Toe game
-html, css, java script
+# Tic Tac Toe Game
 
-[Tic Tac Toe](https://sreeshanth-soma.github.io/TicTacToe/)
+Welcome to the Tic Tac Toe game repository! This project showcases a classic Tic Tac Toe game built with HTML, CSS, and JavaScript.
+
+## Live Demo
+
+You can play the Tic Tac Toe game live at the following URL: [Tic Tac Toe](https://sreeshanth-soma.github.io/TicTacToe/)
